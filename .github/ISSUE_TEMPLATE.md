@@ -1,0 +1,23 @@
+Hi, I'd like to transfer my project to your organisation.
+
+* Link: 
+* Description of project:
+* Reason why this is interesting to all Box developers: 
+
+# Checklist
+
+I've made sure that my project...
+- [ ] has a clear title and description
+- [ ] is named according to the type of project and programming language
+    * samples and other scripts start with `sample-[lang]` or `samples-[lang]`, e.g. `sample-java-upload`
+    * tools and other utilities start with `util-[lang]`, e.g. `util-node-account-manager`
+    * client libraries and SDKs start with `sdk-[lang]`, e.g. `sdk-php`
+    * if a project supports multiple languages the `[lang]` part can be ommited
+- [ ] has some form of basic test coverage 
+- [ ] has a README containing
+    * a description of the project
+    * installation/running instructions
+    * test/development instructions
+    * a link to the license and code of conduct
+- [ ] comes with our Apache 2 [license](../LICENSE.md) (see link for details)
+- [ ] comes with our [Code of Conduct](CODE_OF_CONDUCT.md) (see link for details)
