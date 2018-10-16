@@ -10,9 +10,10 @@ I've made sure that my project...
 - [ ] has a clear title and description
 - [ ] is named according to the type of project and programming language
     * samples and other scripts start with `sample-[lang]` or `samples-[lang]`, e.g. `sample-java-upload`
-    * tools and other utilities start with `util-[lang]`, e.g. `util-node-account-manager`
+    * tools and other utilities start with `tool-[lang]`, e.g. `tool-node-account-manager`
     * client libraries and SDKs start with `sdk-[lang]`, e.g. `sdk-php`
     * if a project supports multiple languages the `[lang]` part can be ommited
+    * please keep "box" out of the repo name as it is redundant
 - [ ] has some form of basic test coverage 
 - [ ] has a README containing
     * a description of the project
