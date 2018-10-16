@@ -4,7 +4,7 @@
 
 Have you build a project that you think would benefit other Box Platform users and want to add it to this organisation? 
 
-Simply [open a new issue](https://git.dev.box.net/cbetta/box-community-guidelines/issues/new) and follow the template provided. We will try to get back to you as soon as we can.
+Simply [open a new issue](https://github.com/workbetta/box-community-guidelines/issues/new) and follow the template provided. We will try to get back to you as soon as we can.
 
 We will keep you on as an maintainer for the project.
 
