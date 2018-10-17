@@ -1,12 +1,12 @@
 # About Box Community  
 
-Welcome to the [Box](https://box.com) cumunity GitHub organization. 
+Welcome to the [Box](https://box.com) community GitHub organization. 
 
 [This organization](https://github.com/box-community) contains projects provided by developers at Box, as well as external developers who use the Box Platform API to drive their business. 
 
 ## About this organization
 
-This organization contains projects that are build by and for the Box developer community. This includes:
+This organization contains projects that are built by and for the Box developer community. This includes:
 
 * Code samples
 * Unofficial SDK or client libraries
@@ -14,7 +14,7 @@ This organization contains projects that are build by and for the Box developer 
 * Scripts
 * ...and more
 
-Support for these projects is provided by the individuals maintainers and might vary from one project to the next.
+Support for these projects is provided by the individual maintainers and might vary from one project to the next.
 
 For Box's official SDKs, the CLI, and any other officially supported code make sure to head over to [github.com/box](https://github.com/box).
 
