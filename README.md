@@ -24,7 +24,7 @@ Check our [Contribution Guidelines](.github/CONTRIBUTING.md) for instructions on
 
 ## Code of Conduct
 
-All projects in this organisation are governed by our [Code of Conduct](./github/CODE_OF_CONDUCT.md).
+All projects in this organisation are governed by our [Code of Conduct](.github/CODE_OF_CONDUCT.md).
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported by contacting the project team at [github-community@box.com](mailto:github-community@box.com). All
