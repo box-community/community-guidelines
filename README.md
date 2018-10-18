@@ -20,11 +20,11 @@ For Box's official SDKs, the CLI, and any other officially supported code make s
 
 ## Contributing a new project
 
-Check our [Contribution Guidelines](.github/CONTRIBUTING.md) for instructions on adding your project to this GitHub organisation.
+Check our [Contribution Guidelines](.github/CONTRIBUTING.md) for instructions on adding your project to this GitHub organization.
 
 ## Code of Conduct
 
-All projects in this organisation are governed by our [Code of Conduct](.github/CODE_OF_CONDUCT.md).
+All projects in this organization are governed by our [Code of Conduct](.github/CODE_OF_CONDUCT.md).
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported by contacting the project team at [devrel@box.com](mailto:devrel@box.com). All
