@@ -1,4 +1,4 @@
-Hi, I'd like to transfer my project to your organisation.
+Hi, I'd like to transfer my project to your organization.
 
 * Link: 
 * Description of project:
