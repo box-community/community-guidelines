@@ -20,5 +20,5 @@ I've made sure that my project...
     * installation/running instructions
     * test/development instructions
     * a link to the license and code of conduct
-- [ ] comes with our Apache 2 [license](https://github.com/workbetta/community-guidelines/blob/master/LICENSE.md) (see link for details) as well as your own license (dual licensing)
-- [ ] comes with our [Code of Conduct](https://github.com/workbetta/community-guidelines/blob/master/.github/CODE_OF_CONDUCT.md) (see link for details)
+- [ ] comes with our Apache 2 [license](https://github.com/box-community/community-guidelines/blob/master/LICENSE.md) (see link for details) as well as your own license (dual licensing)
+- [ ] comes with our [Code of Conduct](https://github.com/box-community/community-guidelines/blob/master/.github/CODE_OF_CONDUCT.md) (see link for details)
