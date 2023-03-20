@@ -1,3 +1,7 @@
+<img src="images/box-dev-logo-clip.png" 
+alt= “box-dev-logo” 
+style="margin-left:-10px;"
+width=40%;>
 # About Box Community  
 
 Welcome to the [Box](https://box.com) community GitHub organization. 
