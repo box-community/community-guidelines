@@ -13,7 +13,7 @@ We will keep you on as an maintainer for the project.
 Do you work at Box and want to add your project to this organization? Head over to `#box-community` on Slack and we we will happily get you set up.
 
 ## ... either way...
-We would appreciate if you include the Box Dev logo as the first image in your README.md file. You can find the logo in the [images](./images/box-dev-logo-clip.png) folder of this repository.
+We would appreciate if you include the Box Dev logo as the first image in your README.md file. You can find the logo in the images folder of this repository.
 
 ```html
 <img src="images/box-dev-logo-clip.png" 
